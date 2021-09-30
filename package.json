@@ -9,8 +9,7 @@
     "type": "git"
   },
   "scripts": {
-    "package": "vsce package",
-    "publish": "vsce publish -p pm3o2ave3gzkqjcg2uzniwsbvdyl7eb22upvwaqpd6is3yvrbl4a"
+    "package": "vsce package"
   },
   "engines": {
     "vscode": "^1.60.0"
