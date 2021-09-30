@@ -22,3 +22,7 @@ This extension pack contains the following extensions:
 - [VSCode Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+
+## Marketplace
+
+You can find the extension pack on the marketplace at [Introduction to Web Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=MechanicalInk.intro-to-webdev-extenstion-pack)
