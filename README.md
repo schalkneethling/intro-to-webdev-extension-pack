@@ -1,16 +1,24 @@
-# README
+# Introduction to Web Development Extension Pack
 
-## This is the README for your extension pack "intro-to-webdev"
+This extension pack contains the following extensions:
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+- [HTML End Tag Labels](https://marketplace.visualstudio.com/items?itemName=anteprimorac.html-end-tag-labels)
+- [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [AXELinter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter)
+- [Gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [JSON Tools](https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [GitHub VSCode Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+- [VSCode GitHub Gist](https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist)
+- [VSCode Gutter Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+- [DotEnv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [Filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Snyk Vulnerability Scanner](https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner)
+- [Snyk Vulnerability Cost](https://marketplace.visualstudio.com/items?itemName=snyk-security.vscode-vuln-cost)
+- [JSON Template](https://marketplace.visualstudio.com/items?itemName=stormwarning.json-template)
+- [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+- [VSCode Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
