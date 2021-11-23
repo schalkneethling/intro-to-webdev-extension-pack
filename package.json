@@ -40,6 +40,6 @@
     "vscode-icons-team.vscode-icons"
   ],
   "devDependencies": {
-    "vsce": "^1.100.0"
+    "vsce": "^2.4.0"
   }
 }
