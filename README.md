@@ -23,3 +23,8 @@ This extension pack contains the following extensions:
 ## Marketplace
 
 You can find the extension pack on the marketplace at [Introduction to Web Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=MechanicalInk.intro-to-webdev-extenstion-pack)
+
+### Management
+
+- [Azure Dev](https://dev.azure.com/mechanicalink/_usersSettings/tokens)
+- [VSCode Marketplace](https://marketplace.visualstudio.com/manage/publishers/mechanicalink)
