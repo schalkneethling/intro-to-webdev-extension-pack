@@ -2,7 +2,7 @@
   "name": "intro-to-webdev-extenstion-pack",
   "displayName": "Introduction to Web Development Extension Pack",
   "description": "A collection of useful extensions when you start your web developer learning path",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "MechanicalInk",
   "repository": {
     "url": "git@github.com:schalkneethling/intro-to-webdev-extension-pack.git",
