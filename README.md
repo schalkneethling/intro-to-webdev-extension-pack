@@ -2,11 +2,9 @@
 
 This extension pack contains the following extensions:
 
-- [HTML End Tag Labels](https://marketplace.visualstudio.com/items?itemName=anteprimorac.html-end-tag-labels)
 - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [AXELinter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter)
-- [Gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [JSON Tools](https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [GitHub VSCode Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
@@ -16,12 +14,11 @@ This extension pack contains the following extensions:
 - [Filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Snyk Vulnerability Scanner](https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner)
-- [Snyk Vulnerability Cost](https://marketplace.visualstudio.com/items?itemName=snyk-security.vscode-vuln-cost)
 - [JSON Template](https://marketplace.visualstudio.com/items?itemName=stormwarning.json-template)
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [VSCode Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
-- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+- [GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces)
 
 ## Marketplace
 
