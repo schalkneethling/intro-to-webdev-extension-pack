@@ -38,6 +38,6 @@
     "github.codespaces"
   ],
   "devDependencies": {
-    "vsce": "^1.100.0"
+    "vsce": "^2.5.1"
   }
 }
